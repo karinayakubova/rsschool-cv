@@ -8,9 +8,9 @@ In a role of technical product manager was leading a cross-functional team, work
 Last year and a half take a lead focus on a chatbots opportunities make value to EdTech and eCommerce, and bring positive customer experience in communication with businesses.
 
 ## Experience
-### ChatBots Developer\
+### ChatBots Developer
 self-employed\
-dec.2021 — current time
+dec. 2021 — current time
 
 Created an algorithm of onboarding for students of model school and transfer it into a chatbot. The curator of the school got one more free working day a week.
 
@@ -21,4 +21,4 @@ On base of telegram's chatbot was running out a private shop for a manufacturer 
 Higher: RSUH (Russian State University for the Humanities, Media Institute, faculty of journalism), 2014 graduate.\
 Courses: GoPractice, Hexlet, Product University, Practicum.
 
-t.me/karinayakubova | karina.yackubova@gmail.com
+👋 [t.me/karinayakubova](t.me/karinayakubova) | karina.yackubova@gmail.com
